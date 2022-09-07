@@ -119,7 +119,7 @@ header {
   background-color: #384459;
 }
 
-/*odd = ímapar, pega todos os elementos ímapares*/
+/*odd = ímpar, pega todos os elementos ímpares*/
 .dsmeta-sales-table tbody tr:nth-child(odd) {
   background-color: #242C3B;
 }
